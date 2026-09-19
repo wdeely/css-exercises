@@ -1,1 +1,6 @@
 /* Add CSS Styling */
+.odd{background-color: pink;font-family:Verdana, DejaVu Sans, sans-serif}
+.blue{color: blue}
+.larger-font{font-size: 36px;}
+.green{background-color: green}
+.adjust-font-size{font-size: 24px;}
